@@ -1,0 +1,29 @@
+{
+  "name": "selecta",
+  "version": "1.0.0",
+  "description": "Interfaces for items supporting selection operations",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ar124official2019/selecta.git"
+  },
+  "keywords": [
+    "selectable",
+    "collection",
+    "items",
+    "lists"
+  ],
+  "author": "Ahmad Raza",
+  "license": " GPL-3.0 ",
+  "bugs": {
+    "url": "https://github.com/ar124official2019/selecta/issues"
+  },
+  "homepage": "https://github.com/ar124official2019/selecta#readme",
+  "dependencies": {
+    "jasmine": "^3.6.1",
+    "rxjs": "^6.6.3"
+  }
+}
