@@ -1,5 +1,5 @@
 {
-  "name": "selecta",
+  "name": "selecon",
   "version": "1.0.0",
   "description": "Interfaces for items supporting selection operations",
   "main": "index.js",
@@ -23,7 +23,9 @@
   },
   "homepage": "https://github.com/ar124official2019/selecta#readme",
   "dependencies": {
-    "jasmine": "^3.6.1",
     "rxjs": "^6.6.3"
+  },
+  "devDependencies": {
+    "jasmine": "^3.6.1"
   }
 }
